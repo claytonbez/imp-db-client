@@ -1,14 +1,18 @@
 {
-  "name": "imp-db-client",
-  "version": "0.0.1",
+  "author": {
+    "name": "claytonbez"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "json-socket": "^0.3.0"
+  },
+  "deprecated": false,
   "description": "A JSON socket client to inteface with imp-db-host",
+  "license": "MIT",
   "main": "imp-db-client.js",
+  "name": "imp-db-client",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "claytonbez",
-  "license": "MIT",
-  "dependencies": {
-    "json-socket": "^0.3.0"
-  }
+  "version": "0.0.2"
 }

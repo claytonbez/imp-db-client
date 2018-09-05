@@ -1,2 +1,4 @@
-# imp-db-host
-A JSON Socket host to interface with imp-db 
+imp-db-client
+=============
+
+A JSON Socket client to interface with imp-db-host
